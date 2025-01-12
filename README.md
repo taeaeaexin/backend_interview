@@ -65,6 +65,11 @@
 
 
 <details>
-  <summary>(25.01.11) </summary>
-<p></p>
+  <summary>(25.01.11) Selection Sort란 무엇일까요?</summary>
+<p>Selection Sort는 Bubble Sort과 유사한 알고리즘으로, 해당 순서에 원소를 넣을 위치는 이미 정해져 있고, 어떤 원소를 넣을지 선택하는 알고리즘입니다. Selection Sort와 Insertion Sort를 헷갈려하는 사람들이 종종 있는데, Selection Sort는 배열에서 해당 자리를 선택하고 그 자리에 오는 값을 찾는 것이라고 생각하면 편합니다.</p>
+</details>
+
+<details>
+  <summary>(25.01.12) Insertion Sort란 무엇일까요?</summary>
+<p>손 안의 카드를 정렬하는 방법과 유사합니다. Insertion Sort는 Selection Sort와 유사하지만, 좀 더 효율적인 정렬 알고리즘입니다. Insertion Sort는 2번째 원소부터 시작하여 그 앞(왼쪽)의 원소들과 비교하여 삽입할 위치를 지정한 후, 원소를 뒤로 옮기고 지정된 자리에 자료를 삽입 하여 정렬하는 알고리즘입니다. 최선의 경우 O(N)이라는 엄청나게 빠른 효율성을 가지고 있어, 다른 정렬 알고리즘의 일부로 사용될 만큼 좋은 정렬 알고리즘입니다.</p>
 </details>
