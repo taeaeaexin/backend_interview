@@ -73,3 +73,11 @@
   <summary>(25.01.12) Insertion Sort란 무엇일까요?</summary>
 <p>손 안의 카드를 정렬하는 방법과 유사합니다. Insertion Sort는 Selection Sort와 유사하지만, 좀 더 효율적인 정렬 알고리즘입니다. Insertion Sort는 2번째 원소부터 시작하여 그 앞(왼쪽)의 원소들과 비교하여 삽입할 위치를 지정한 후, 원소를 뒤로 옮기고 지정된 자리에 자료를 삽입 하여 정렬하는 알고리즘입니다. 최선의 경우 O(N)이라는 엄청나게 빠른 효율성을 가지고 있어, 다른 정렬 알고리즘의 일부로 사용될 만큼 좋은 정렬 알고리즘입니다.</p>
 </details>
+
+<details>
+  <summary>(25.01.13) Quick Sort란 무엇일까요?</summary>
+<p>Quick Sort은 분할 정복(divide and conquer) 방법 을 통해 주어진 배열을 정렬합니다.
+  (분할 정복(divide and conquer) 방법 : 문제를 작은 2개의 문제로 분리하고 각각을 해결한 다음, 결과를 모아서 원래의 문제를 해결하는 전략) 
+  Quick Sort은 불안정 정렬에 속하며, 다른 원소와의 비교만으로 정렬을 수행하는 비교 정렬에 속한다. 또한 Merge Sort와 달리 Quick Sort는 배열을 비균등하게 분할합니다</p>
+</details>
+
