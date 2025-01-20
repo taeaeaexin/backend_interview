@@ -120,6 +120,11 @@
 </details>
 
 <details>
+  <summary>(25.01.20) 캐시 메모리(Cache Memory)란 무엇일까요? </summary>
+<p>속도가 빠른 장치와 느린 장치에서 속도 차이에 따른 병목 현상을 줄이기 위한 메모리를 말한다.</p>
+</details>
+
+<details>
   <summary>(25.01.2) </summary>
 <p></p>
 </details>
