@@ -125,9 +125,14 @@
 </details>
 
 <details>
-  <summary>(25.01.21) [WorkShop] yeild가 무엇일가요? </summary>
+  <summary>(25.01.21) [WorkShop] yeild가 무엇일까요? </summary>
 <p>yeild는 return과 비슷하다고 생각했는데 다릅니다. 반환, 돌려주다라는 영어 단어인데 비동기처리할 때 많이 사용합니다. 누구한테 돌려주는지 중요한데 분기가 나왔던 지점에 return 합니다.
   분기를 조절한다고 생각하면 좋습니다. for문의 label과 같비슷한 역할을 한다고 합니다.</p>
+</details>
+
+<details>
+  <summary>(25.01.22) [WorkShop] Enum은 언제 사용할까요? </summary>
+<p>날짜, 요일, 계절등 불변의 항목을 열거할 때 사용합니다. 프로젝트를 할 때 코드로 관리할 것과 enum으로 관리할 것을 구분해야합니다.</p>
 </details>
 
 <details>
