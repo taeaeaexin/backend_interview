@@ -136,6 +136,11 @@
 </details>
 
 <details>
+  <summary>(25.01.23) [WorkShop] Method signature에 대해서 설명하세요 </summary>
+<p>메소드 이름 + 매개변수 타입과 개수</p>
+</details>
+
+<details>
   <summary>(25.01.2) </summary>
 <p></p>
 </details>
