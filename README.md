@@ -1,4 +1,4 @@
-# 매일 한 문제씩
+8# 매일 한 문제씩
 매일 백엔드 면접 공부
 
 <details>
@@ -138,6 +138,11 @@
 <details>
   <summary>(25.01.23) [WorkShop] Method signature에 대해서 설명하세요 </summary>
 <p>메소드 이름 + 매개변수 타입과 개수</p>
+</details>
+
+<details>
+  <summary>(25.01.24) [WorkShop] 오늘은 불금! 놀러가야징 </summary>
+<p></p>
 </details>
 
 <details>
