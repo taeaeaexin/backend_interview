@@ -141,11 +141,16 @@
 </details>
 
 <details>
-  <summary>(25.01.24) [WorkShop] 오늘은 불금! 놀러가야징 </summary>
+  <summary>(25.01.24) 오늘은 불금! 놀러가야징</summary>
 <p></p>
 </details>
 
 <details>
-  <summary>(25.01.2) </summary>
+  <summary>(25.01.25) </summary>
 <p></p>
+</details>
+
+<details>
+  <summary>(25.01.25) Is-a 관계를 설명하세요. </summary>
+<p>A is a B라는 관계는 A는 B의 일종이다는 의미 (Dog is an Animal)</p>
 </details>
