@@ -1,4 +1,4 @@
-8# 매일 한 문제씩
+# 매일 한 문제씩
 매일 백엔드 면접 공부
 
 <details>
@@ -146,11 +146,11 @@
 </details>
 
 <details>
-  <summary>(25.01.25) </summary>
-<p></p>
+  <summary>(25.01.25) Is-a 관계를 설명하세요. </summary>
+<p>A is a B라는 관계는 A는 B의 일종이다는 의미 (Dog is an Animal)</p>
 </details>
 
 <details>
-  <summary>(25.01.25) Is-a 관계를 설명하세요. </summary>
-<p>A is a B라는 관계는 A는 B의 일종이다는 의미 (Dog is an Animal)</p>
+  <summary>(25.01.26) 상속이란 무엇일까요?</summary>
+<p>상속은 기존 클래스를 재사용해 새로운 클래스를 작성하는것입니다</p>
 </details>
