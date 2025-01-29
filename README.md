@@ -153,3 +153,8 @@
   <p>- 매개변수가 아니더라도 변수가 참조하는 객체의 타입을 확인할 때 사용하는 연산자입니다.
   좌항의 객체가 우항의 타입이면 true를 출력합니다.</p>
 </details>
+
+<details>
+  <summary>(25.01.29) Schema란 무엇일까요? (새해 복 많이받으세요!)</summary>
+  <p>- 현실과 데이터베이스 사이에 있는 데이터구조. 데이터베이스 조건 Specification을 Description한 Meta-Data</p>
+</details>
