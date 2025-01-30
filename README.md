@@ -158,3 +158,8 @@
   <summary>(25.01.29) Schema란 무엇일까요? (새해 복 많이받으세요!)</summary>
   <p>- 현실과 데이터베이스 사이에 있는 데이터구조. 데이터베이스 조건 Specification을 Description한 Meta-Data</p>
 </details>
+
+<details>
+  <summary>(25.01.30) 쇼트서킷이란 무엇일까요?</summary>
+  <p>- 논리연산자에서 좌측 피연산자만으로도 결과가 확정 된 경우, 굳이 우측 피 연산자의 계산 과정을 진행하지 않는 기능입니다.</p>
+</details>
