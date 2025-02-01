@@ -168,3 +168,8 @@
   <summary>(25.01.31) 다형성(Polymorphism)이란 무엇일까요?</summary>
   <p>- 다형성이란 프로그램 언어 각 요소들(상수, 변수, 식, 객체, 메소드 등)이 다양한 자료형(type)에 속하는 것이 허가되는 성질을 가리킨다.</p>
 </details>
+
+<details>
+  <summary>(25.02.01) NullPointException2이란 무엇일까요?</summary>
+  <p>- 변수가 Null인 상태에서 객체의 데이터나 메소드를 사용하려 하면 발생하는 예외(오류)입니다. reference type이 참조할 데이터가 null일때 생깁니다.</p>
+</details>
