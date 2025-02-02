@@ -173,3 +173,8 @@
   <summary>(25.02.01) NullPointException2이란 무엇일까요?</summary>
   <p>- 변수가 Null인 상태에서 객체의 데이터나 메소드를 사용하려 하면 발생하는 예외(오류)입니다. reference type이 참조할 데이터가 null일때 생깁니다.</p>
 </details>
+
+<details>
+  <summary>(25.02.02) Java에서 실수의 정확한 산술 연산을 하려면 어떻게 해야하나요?</summary>
+  <p>- double과 float가 부동 소수점을 사용하기 떄문에 정확하지 않아 정수 연산으로 진행합니다.</p>
+</details>
