@@ -210,6 +210,8 @@
   </p>
 </details>
 
+<br/>
+
 **[휴가]** 오늘은 코엑스를 갑니다
 <details>
   <summary>25.02.08</summary>
