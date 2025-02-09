@@ -1,4 +1,4 @@
-# 매일 한 문제씩
+7# 매일 한 문제씩
 매일 백엔드 면접 공부
 
 <details>
@@ -216,4 +216,12 @@
 <details>
   <summary>25.02.08</summary>
   <p>- 예에 재밌게 놀다 와야지</p>
+</details>
+
+<br/>
+
+**[휴가]** 재밌게 놀다가 까먹었다
+<details>
+  <summary>25.02.09</summary>
+  <p>- 내일 열심히하자</p>
 </details>
