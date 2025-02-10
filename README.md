@@ -228,8 +228,8 @@
 
 <br/>
 
-**[알고리즘]** 
+**[알고리즘]** 스택과 큐의 삽입,삭제,출력 메서드를 설명하세요
 <details>
   <summary>25.02.10</summary>
-  <p>- </p>
+  <p>- Stack Method : push(e), pop(), peek() / Queue Method : offer(e), poll(), peek()</p>
 </details>
