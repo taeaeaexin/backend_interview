@@ -233,3 +233,11 @@
   <summary>25.02.10</summary>
   <p>- Stack Method : push(e), pop(), peek() / Queue Method : offer(e), poll(), peek()</p>
 </details>
+
+<br/>
+
+**[알고리즘]** 해시의 특성을 이용하는 분야 하나를 설명해보세요
+<details>
+  <summary>25.02.11</summary>
+  <p>- 데이터베이스 인덱싱 : 데이터베이스에 저장된 데이터를 효율적으로 검색할 때</p>
+</details>
