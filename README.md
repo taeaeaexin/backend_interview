@@ -266,3 +266,12 @@
   <summary>25.02.14</summary>
   <p>- 놀러가야지 헤헤</p>
 </details>
+
+
+<br/>
+
+**[휴가]** 오늘은 정처기 시험!
+<details>
+  <summary>25.02.15</summary>
+  <p>- 95/65/65/80/70 으로 합격!</p>
+</details>
