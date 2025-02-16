@@ -275,3 +275,11 @@
   <summary>25.02.15</summary>
   <p>- 95/65/65/80/70 으로 합격!</p>
 </details>
+
+<br/>
+
+**[휴가]** 아.. 주말 삭제
+<details>
+  <summary>25.02.16</summary>
+  <p>- 월요일 싫어..</p>
+</details>
