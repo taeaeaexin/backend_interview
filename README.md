@@ -315,3 +315,11 @@
   
 - 방향 회전의 경우 modulo 연산을 이용하면 쉽게 표현 가능 (연속적인 값 변화를 이용한 간단한 Trick)</p>
 </details>
+
+<br/>
+
+**[알고리즘]** 동적 계획법(Dynamic Programming)이란 무엇일까요?
+<details>
+  <summary>25.02.20</summary>
+  <p>- 복잡한 문제를 간단한 여러 개의 문제로 나누어 푸는 방법</p>
+</details>
