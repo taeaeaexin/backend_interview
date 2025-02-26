@@ -371,3 +371,13 @@
   <summary>25.02.26</summary>
   <p>- SELECT/FROM</p>
 </details>
+
+
+<br/>
+
+**[데이터베이스]** SELECT FROM문을 실행 순서대로 말해보세요
+<details>
+  <summary>25.02.27</summary>
+  <p>- FROM -> WHERE -> GROUP BY -> SELECT -> ORDER BY </p>
+</details>
+
