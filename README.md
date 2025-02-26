@@ -363,3 +363,11 @@
   <summary>25.02.25</summary>
   <p>- 필요에 의해서 생겨난 테이블</p>
 </details>
+
+<br/>
+
+**[데이터베이스]** 데이터 조작어 검색할때 쓰는 문은?
+<details>
+  <summary>25.02.26</summary>
+  <p>- SELECT/FROM</p>
+</details>
