@@ -372,7 +372,6 @@
   <p>- SELECT/FROM</p>
 </details>
 
-
 <br/>
 
 **[데이터베이스]** SELECT FROM문을 실행 순서대로 말해보세요
@@ -381,3 +380,16 @@
   <p>- FROM -> WHERE -> GROUP BY -> HAVING -> SELECT -> ORDER BY </p>
 </details>
 
+<br/>
+
+**[데이터베이스]** subquery의 종류와 설명을 말해주세요
+<details>
+  <summary>25.02.28</summary>
+  <p>
+- 중첩질의 : WHERE 부속질의
+    
+- 스칼라 부속 질의 : SELECT 부속질의
+    
+- 인라인 뷰 : FROM 부속질의
+</p>
+</details>
