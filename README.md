@@ -448,3 +448,11 @@
 - 상세 속성 (Attributes) 도출 <br/>
 - FK 검토 (Identigying, Non-Identifying </p>
 </details>
+
+<br/>
+
+**[프로젝트]** 프로젝트 중
+<details>
+  <summary>25.03.06</summary>
+  <p> 으아아 </p>
+</details>
