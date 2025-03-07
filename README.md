@@ -456,3 +456,11 @@
   <summary>25.03.06</summary>
   <p> 으아아 </p>
 </details>
+
+<br/>
+
+**[프로젝트]** 프로젝트 마무리
+<details>
+  <summary>25.03.07</summary>
+  <p> 으아아아아아 </p>
+</details>
