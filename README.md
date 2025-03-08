@@ -464,3 +464,11 @@
   <summary>25.03.07</summary>
   <p> 으아아아아아 </p>
 </details>
+
+<br/>
+
+**[SQLD]** SQLD 시험을 봤습니다
+<details>
+  <summary>25.03.08</summary>
+  <p> - 자유다 </p>
+</details>
