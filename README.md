@@ -472,3 +472,11 @@
   <summary>25.03.08</summary>
   <p> - 자유다 </p>
 </details>
+
+<br/>
+
+**[쉬는 날]** 오늘까지만 좀 쉴게요
+<details>
+  <summary>25.03.09</summary>
+  <p> - 야호 </p>
+</details>
