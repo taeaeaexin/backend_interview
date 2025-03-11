@@ -493,3 +493,16 @@
     - 지속성 : 정상적으로 완료되거나 부분 완료된 데이터는 반드시 데이터베이스에 기록되어야 한다. <br/>
   </p>
 </details>
+
+<br/>
+
+**[데이터베이스]** 고립수준의 종류를 말하세요
+<details>
+  <summary>25.03.11</summary>
+  <p>
+    - READ UNCOMMITTED <br/>
+    - READ COMMITTED <br/>
+    - REPEATABLE READ <br/>
+    - SERIZLIZABLE <br/>
+  </p>
+</details>
