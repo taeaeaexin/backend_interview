@@ -506,3 +506,11 @@
     - SERIZLIZABLE <br/>
   </p>
 </details>
+
+<br/>
+
+**[데이터베이스]** MyBatis란 무엇일까요?
+<details>
+  <summary>25.03.12</summary>
+  <p> - SQL을 직접 사용하면서도 객체 매핑을 쉽게 할 수 있는 프레임워크 </p>
+</details>
