@@ -514,3 +514,11 @@
   <summary>25.03.12</summary>
   <p> - SQL을 직접 사용하면서도 객체 매핑을 쉽게 할 수 있는 프레임워크 </p>
 </details>
+
+<br/>
+
+**[데이터베이스]** JPA란 무엇일까요?
+<details>
+  <summary>25.03.13</summary>
+  <p> -  JPA(Java Persistence API)는 자바에서 관계형 데이터베이스를 객체 지향적으로 다룰 수 있도록 지원하는 ORM(Object-Relational Mapping) 기술입니다. SQL 대신 객체(Entity) 중심으로 데이터베이스를 조작할 수 있도록 도와주며, 개발자가 직접 SQL을 작성하지 않아도 데이터베이스 연동이 가능합니다. </p>
+</details>
