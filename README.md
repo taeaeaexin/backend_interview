@@ -530,3 +530,14 @@
   <summary>25.03.14</summary>
   <p> - Scale up은 전통적인 DB의 방식인 RDBMS에서 단일 서버 성능 향상을 위해 사용하고, Scale out은 비정형 데이터 데이터간의 Join이 없기 때문에 빠르게 처리가 가능하여 NoSQL에서 사용함 </p>
 </details>
+
+<br/>
+
+**[데이터베이스]** RDBMS와 NoSQL의 차이를 말하세요
+<details>
+  <summary>25.03.15</summary>
+    <p>
+    - RDBMS : 테이블 기반의 고정된 스키마 <br/>
+    - NoSQL : 여러 종류 구조의 유연한 스키마  <br/>
+  </p>
+</details>
