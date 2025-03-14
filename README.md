@@ -522,3 +522,11 @@
   <summary>25.03.13</summary>
   <p> -  JPA(Java Persistence API)는 자바에서 관계형 데이터베이스를 객체 지향적으로 다룰 수 있도록 지원하는 ORM(Object-Relational Mapping) 기술입니다. SQL 대신 객체(Entity) 중심으로 데이터베이스를 조작할 수 있도록 도와주며, 개발자가 직접 SQL을 작성하지 않아도 데이터베이스 연동이 가능합니다. </p>
 </details>
+
+<br/>
+
+**[데이터베이스]** Scale UP과 Scale Out의 차이를 말하세요
+<details>
+  <summary>25.03.14</summary>
+  <p> - Scale up은 전통적인 DB의 방식인 RDBMS에서 단일 서버 성능 향상을 위해 사용하고, Scale out은 비정형 데이터 데이터간의 Join이 없기 때문에 빠르게 처리가 가능하여 NoSQL에서 사용함 </p>
+</details>
