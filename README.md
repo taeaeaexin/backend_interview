@@ -541,3 +541,16 @@
     - NoSQL : 여러 종류 구조의 유연한 스키마  <br/>
   </p>
 </details>
+
+<br/>
+
+**[데이터베이스]** MongoDB의 특징을 설명하세요
+<details>
+  <summary>25.03.16</summary>
+    <p>
+    - Document-Oriented NoSQL 데이터베이스 <br/>
+    - JSON-LIKE 형식의 BSON(Binary JSON) 문서를 사용하여 데이터 저장 <br/>
+    - 복제와 샤딩을 통해 고가용성과 확장성을 제공 <br/>
+    - 대규모 데이터 저장 및 처리, 실시간 분석 등 분야에 사용 <br/>
+  </p>
+</details>
